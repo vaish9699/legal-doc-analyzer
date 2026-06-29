@@ -1,0 +1,53 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is made and entered into as of March 15, 2025 (the "Effective Date"), by and between Acme Software Inc., a corporation organized under the laws of the State of California ("Provider"), and Beta Enterprises LLC, a limited liability company organized under the laws of the State of New York ("Client").
+
+1. SERVICES
+Provider shall provide software development and consulting services to Client as described in one or more Statements of Work ("SOW") executed by both Parties from time to time. Each SOW shall reference this Agreement and shall be governed by its terms.
+
+2. FEES AND PAYMENT
+Client shall pay Provider the fees set forth in each SOW. Unless otherwise specified, all invoices are payable within thirty (30) days of the invoice date. Late payments shall accrue interest at the rate of one and one-half percent (1.5%) per month or the maximum rate permitted by law, whichever is less.
+
+3. EXPENSES
+Client shall reimburse Provider for all reasonable, pre-approved out-of-pocket expenses incurred in connection with the Services. Provider shall submit expense reports with supporting documentation on a monthly basis.
+
+4. INTELLECTUAL PROPERTY
+All deliverables created by Provider specifically for Client under this Agreement ("Deliverables") shall be the sole property of Client upon full payment of all amounts due. Provider retains ownership of all pre-existing materials, tools, methodologies, and know-how used in creating the Deliverables ("Provider IP"), and grants Client a non-exclusive, worldwide, royalty-free license to use Provider IP solely as embedded in the Deliverables.
+
+5. CONFIDENTIALITY
+Each Party agrees to maintain the confidentiality of the other Party's Confidential Information and use it only for the purposes of this Agreement. This obligation shall survive termination of this Agreement for a period of three (3) years.
+
+6. WARRANTIES
+Provider warrants that the Services will be performed in a professional and workmanlike manner consistent with industry standards. EXCEPT AS EXPRESSLY SET FORTH HEREIN, PROVIDER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, AND SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT. PROVIDER'S TOTAL CUMULATIVE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE FEES PAID BY CLIENT TO PROVIDER UNDER THE APPLICABLE SOW DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+8. INDEMNIFICATION
+Provider shall defend, indemnify, and hold harmless Client from any third-party claims arising out of Provider's gross negligence or willful misconduct. Client shall defend, indemnify, and hold harmless Provider from any third-party claims arising out of Client's use of the Deliverables in violation of this Agreement or applicable law.
+
+9. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and continue until terminated. Either Party may terminate this Agreement for convenience upon sixty (60) days' written notice to the other Party. Either Party may terminate this Agreement immediately upon written notice if the other Party materially breaches this Agreement and fails to cure such breach within thirty (30) days of receiving written notice.
+
+10. EFFECT OF TERMINATION
+Upon termination, Client shall pay Provider for all Services performed and expenses incurred up to the effective date of termination. The provisions relating to confidentiality, intellectual property, limitation of liability, and indemnification shall survive termination.
+
+11. INDEPENDENT CONTRACTOR
+Provider is an independent contractor and not an employee, agent, partner, or joint venturer of Client. Neither Party has the authority to bind the other to any obligation.
+
+12. ASSIGNMENT
+Neither Party may assign this Agreement without the prior written consent of the other Party, except that either Party may assign this Agreement to a successor in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+13. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by the laws of the State of California. Any disputes arising out of this Agreement shall be resolved by binding arbitration in San Francisco, California, in accordance with the Commercial Arbitration Rules of the American Arbitration Association.
+
+14. NOTICES
+All notices under this Agreement shall be in writing and delivered by certified mail, overnight courier, or email with confirmation of receipt to the addresses set forth in the applicable SOW.
+
+15. ENTIRE AGREEMENT
+This Agreement, together with all SOWs, constitutes the entire agreement between the Parties and supersedes all prior agreements relating to the subject matter hereof.
+
+ACME SOFTWARE INC.                BETA ENTERPRISES LLC
+By: ___________________            By: ___________________
+Name: Sarah Johnson                Name: Michael Chen
+Title: CEO                         Title: Managing Director

@@ -1,0 +1,45 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of January 1, 2025, by and between ABC Corporation, a Delaware corporation ("ABC"), and XYZ Limited, a Delaware corporation ("XYZ") (each a "Party" and together the "Parties").
+
+1. PURPOSE
+The Parties wish to explore a potential business relationship in connection with software development services (the "Purpose"). In connection with the Purpose, each Party may disclose to the other certain confidential and proprietary information.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public information disclosed by one Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether orally, in writing, or in any other form, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Confidential Information includes, without limitation, business plans, financial information, customer lists, technical data, software, source code, and trade secrets.
+
+3. EXCLUSIONS
+Confidential Information does not include information that: (a) is or becomes publicly known through no fault of the Receiving Party; (b) was rightfully known by the Receiving Party prior to disclosure; (c) is rightfully obtained from a third party without restriction; or (d) is independently developed by the Receiving Party without use of the Disclosing Party's Confidential Information.
+
+4. OBLIGATIONS
+The Receiving Party shall: (a) hold all Confidential Information in strict confidence; (b) use Confidential Information solely for the Purpose; (c) not disclose Confidential Information to any third party without the prior written consent of the Disclosing Party; and (d) protect Confidential Information using at least the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care.
+
+5. TERM
+This Agreement shall remain in effect for a period of two (2) years from the date first written above. The obligations of confidentiality shall survive termination of this Agreement for a period of five (5) years.
+
+6. TERMINATION
+Either Party may terminate this Agreement at any time upon thirty (30) days' written notice to the other Party. Upon termination, the Receiving Party shall promptly return or destroy all Confidential Information of the Disclosing Party in its possession.
+
+7. NO LICENSE
+Nothing in this Agreement grants the Receiving Party any license or rights, by implication or otherwise, in or to any Confidential Information of the Disclosing Party.
+
+8. REMEDIES
+The Parties acknowledge that any breach of this Agreement may cause irreparable harm for which monetary damages would be inadequate, and the non-breaching Party shall be entitled to seek injunctive relief in addition to any other remedies available at law or in equity.
+
+9. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+10. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+ABC Corporation
+By: ___________________
+Name: Jane Smith
+Title: Chief Executive Officer
+
+XYZ Limited
+By: ___________________
+Name: John Doe
+Title: President
